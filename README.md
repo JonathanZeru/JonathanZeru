@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Jonathan Zeru
-A third year Computer Science student
+A fourth year Computer Science student
 
