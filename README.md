@@ -3,7 +3,7 @@
 ## I'm Jonathan Zeru, a Software Developer specializing in Flutter & Web Development
 
 ### 🚀 About Me
-I am a results-driven software developer with expertise in **Flutter, Next.js, and React.js**, focused on delivering intuitive and high-performing applications across mobile and web platforms. With a background in **Computer Science** from Hope Enterprise University College, I have worked on **e-commerce solutions, delivery platforms, chat applications, and AI-powered apps**. My approach prioritizes **efficiency, accessibility, and transparent collaboration**.
+I am a results-driven software developer with expertise in **Flutter, Next.js, and React.js**, focused on delivering intuitive and high-performing applications across mobile and web platforms. With a background in **Computer Science** from Hope Enterprise University College, I have worked on **e-commerce solutions, delivery platforms, chat applications, and AI-powered apps**. My approach prioritizes **efficiency, accessibility, and transparent collaboration** with Professional Experience starting from 2023.
 
 <img align="right" height="150" src="https://hackernoon.com/images/f2px36fy.gif"  />
 
@@ -36,36 +36,6 @@ I am a results-driven software developer with expertise in **Flutter, Next.js, a
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
 </div>
-
----
-
-## 📌 Featured Projects
-
-### **📱 Mobile Applications**
-- **WellUp** - AI-powered wellness companion app *(Flutter, Dio, Chapa, Gemini API, StarryAI)*
-- **Pick Delivery** - Real-time food delivery system *(Flutter, Dio, Gebeta Maps, Chapa, Push Notifications)*
-- **Ethio Chef** - Recipe-sharing app with 200K+ users *(Flutter, Google Maps, Chapa)*
-- **Digital Merkato** - E-commerce platform *(Flutter, Google Maps, Multi-language Support, Chapa)*
-
-### **💻 Web Applications**
-- **Lemi Kura Reporting System** - Hierarchical reporting for Prosperity Party *(Next.js, Tailwind, VPS, Nginx)*
-- **Crosslight Africa** - B2B spare parts marketplace *(React.js, Tailwind, Framer Motion)*
-- **Development for Peace Organization** - NGO website *(React.js, Tailwind, Framer Motion)*
-
----
-
-## 💼 Professional Experience
-
-### **Software Developer | Cross Light Africa** *(Nov 2024 – Feb 2025)*
-- Built a chat-enabled marketplace for spare parts buyers & sellers
-- Developed a UI/UX experience similar to Jiji Ethiopia
-
-### **Software Developer | Keteme IT - Pick Delivery** *(Aug 2024 – Nov 2024)*
-- Developed a food ordering & delivery app with real-time tracking
-- Integrated **Chapa** payment gateway for secure transactions
-
-### **Software Developer | Micro Sun and Solutions** *(Mar 2023 – Aug 2023)*
-- Worked on mobile app development, focusing on UI enhancements & performance optimization
 
 ---
 
