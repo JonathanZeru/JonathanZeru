@@ -1,6 +1,7 @@
 # 👋 Hi there!
 
 ## I'm Jonathan Zeru, a Software Developer specializing in Flutter & Web Development
+🌍 **Portfolio:** [jonathanzeru-portfolio.vercel.app](https://jonathanzeru-portfolio.vercel.app/)
 
 ### 🚀 About Me
 I am a results-driven software developer with expertise in **Flutter, Next.js, and React.js**, focused on delivering intuitive and high-performing applications across mobile and web platforms. With a background in **Computer Science** from Hope Enterprise University College, I have worked on **e-commerce solutions, delivery platforms, chat applications, and AI-powered apps**. My approach prioritizes **efficiency, accessibility, and transparent collaboration** with Professional Experience starting from 2023.
@@ -60,9 +61,6 @@ I am a results-driven software developer with expertise in **Flutter, Next.js, a
   </a>
 </div>
 
-🌍 **Portfolio:** [jonathanzeru-portfolio.vercel.app](https://jonathanzeru-portfolio.vercel.app/)
-
-🐙 **GitHub:** [github.com/JonathanZeru](https://github.com/JonathanZeru)
 
 📍 **Location:** Addis Ababa, Ethiopia
 
